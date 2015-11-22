@@ -1,0 +1,14 @@
+What is the object-oriented way to become wealthy?
+Inheritance
+
+What kind of candy is never on time?
+ChocoLATE
+
+Did you hear about the angry pancake?
+It just flipped
+
+What is the "current object" and the default receiver of messages (method calls) for which no explicit receiver is specified?
+Self
+
+How did Reese eat her ice cream?
+Witherspoon
